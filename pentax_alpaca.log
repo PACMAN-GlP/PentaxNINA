@@ -1,0 +1,278 @@
+2026-10-10 10:06:01,288 INFO    MainThread Pentax pkTriggerCord Alpaca bridge v1.0.0
+2026-10-10 10:06:01,289 INFO    MainThread Listening on http://localhost:11200/  (open this page in a browser to check the server)
+2026-10-10 10:06:01,289 INFO    MainThread pktriggercord-cli found. Camera is only contacted when N.I.N.A. connects to it.
+2026-10-10 10:06:01,296 INFO    MainThread Now start N.I.N.A. -> Equipment -> Camera -> rescan, and pick: Pentax K-5 II (pkTriggerCord bridge)
+2026-10-10 10:06:01,296 INFO    discovery Alpaca discovery responder listening on UDP port 32227
+2026-10-10 10:06:01,296 INFO    MainThread Leave this window open while you use N.I.N.A.  (Ctrl+C stops the server)
+2026-10-10 10:07:27,555 INFO    Thread-4 (process_request_thread) N.I.N.A./client requested connect - testing the camera ...
+2026-10-10 10:07:28,410 INFO    Thread-4 (process_request_thread) Connected to K-5II, lens: smc PENTAX-DA* 300mm F4 ED [IF] SDM
+2026-10-10 20:10:57,167 INFO    Thread-4 (process_request_thread) Client disconnected.
+2026-10-10 20:11:22,396 INFO    MainThread Stopping.
+2026-10-10 20:11:42,621 INFO    MainThread Pentax pkTriggerCord Alpaca bridge v1.0.0
+2026-10-10 20:11:42,622 INFO    MainThread Listening on http://localhost:11200/  (open this page in a browser to check the server)
+2026-10-10 20:11:42,622 INFO    MainThread pktriggercord-cli found. Camera is only contacted when N.I.N.A. connects to it.
+2026-10-10 20:11:42,629 INFO    MainThread Now start N.I.N.A. -> Equipment -> Camera -> rescan, and pick: Pentax K-5 II (pkTriggerCord bridge)
+2026-10-10 20:11:42,629 INFO    discovery Alpaca discovery responder listening on UDP port 32227
+2026-10-10 20:11:42,629 INFO    MainThread Leave this window open while you use N.I.N.A.  (Ctrl+C stops the server)
+2026-10-10 20:11:47,548 INFO    Thread-1 (process_request_thread) N.I.N.A./client requested connect - testing the camera ...
+2026-10-10 20:11:48,344 INFO    Thread-1 (process_request_thread) Connected to K-5II, lens: smc PENTAX-DA* 300mm F4 ED [IF] SDM
+2026-10-10 20:14:44,260 INFO    MainThread Pentax pkTriggerCord Alpaca bridge v1.0.0
+2026-10-10 20:14:44,260 INFO    MainThread Listening on http://localhost:11200/  (open this page in a browser to check the server)
+2026-10-10 20:14:44,260 INFO    MainThread pktriggercord-cli found. Camera is only contacted when N.I.N.A. connects to it.
+2026-10-10 20:14:44,297 INFO    MainThread Now start N.I.N.A. -> Equipment -> Camera -> rescan, and pick: Pentax K-5 II (pkTriggerCord bridge)
+2026-10-10 20:14:44,298 INFO    discovery Alpaca discovery responder listening on UDP port 32227
+2026-10-10 20:14:44,298 INFO    MainThread Leave this window open while you use N.I.N.A.  (Ctrl+C stops the server)
+2026-10-10 20:15:28,020 INFO    Thread-21 (process_request_thread) N.I.N.A./client requested connect - testing the camera ...
+2026-10-10 20:15:28,914 INFO    Thread-21 (process_request_thread) Connected to K-5II, lens: smc PENTAX-DA* 300mm F4 ED [IF] SDM
+2026-10-10 20:28:47,276 INFO    Thread-21 (process_request_thread) Exposure #1: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 20:28:55,167 WARNING exposure-1 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 20:28:55,180 INFO    exposure-1 Exposure #1 finished in 7.9 s: 4928x3264, min 0 / max 2136 / median 16, Bayer BGGR
+2026-10-10 20:29:28,835 INFO    Thread-21 (process_request_thread) Client disconnected.
+2026-10-10 20:29:33,220 INFO    MainThread Stopping.
+2026-10-10 21:01:19,337 INFO    MainThread Pentax pkTriggerCord Alpaca bridge v1.0.0
+2026-10-10 21:01:19,338 INFO    MainThread Listening on http://localhost:11200/  (open this page in a browser to check the server)
+2026-10-10 21:01:19,338 INFO    MainThread pktriggercord-cli found. Camera is only contacted when N.I.N.A. connects to it.
+2026-10-10 21:01:19,345 INFO    MainThread Now start N.I.N.A. -> Equipment -> Camera -> rescan, and pick: Pentax K-5 II (pkTriggerCord bridge)
+2026-10-10 21:01:19,345 INFO    discovery Alpaca discovery responder listening on UDP port 32227
+2026-10-10 21:01:19,345 INFO    MainThread Leave this window open while you use N.I.N.A.  (Ctrl+C stops the server)
+2026-10-10 21:01:22,297 INFO    Thread-1 (process_request_thread) N.I.N.A./client requested connect - testing the camera ...
+2026-10-10 21:01:23,093 INFO    Thread-1 (process_request_thread) Connected to K-5II, lens: smc PENTAX-DA* 300mm F4 ED [IF] SDM
+2026-10-10 21:01:34,278 INFO    Thread-1 (process_request_thread) Exposure #1: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:01:46,926 WARNING exposure-1 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:01:46,932 INFO    exposure-1 Exposure #1 finished in 12.6 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:02:14,440 INFO    Thread-4 (process_request_thread) Exposure #2: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:02:26,887 WARNING exposure-2 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:02:26,892 INFO    exposure-2 Exposure #2 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:02:31,961 INFO    Thread-4 (process_request_thread) Exposure #3: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:02:44,357 WARNING exposure-3 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:02:44,362 INFO    exposure-3 Exposure #3 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:03:03,800 INFO    Thread-1 (process_request_thread) Exposure #4: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:03:16,242 WARNING exposure-4 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:03:16,247 INFO    exposure-4 Exposure #4 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:03:21,261 INFO    Thread-1 (process_request_thread) Exposure #5: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:03:33,718 WARNING exposure-5 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:03:33,722 INFO    exposure-5 Exposure #5 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:03:48,139 INFO    Thread-1 (process_request_thread) Exposure #6: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:04:00,552 WARNING exposure-6 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:04:00,557 INFO    exposure-6 Exposure #6 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:04:05,655 INFO    Thread-4 (process_request_thread) Exposure #7: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:04:18,009 WARNING exposure-7 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:04:18,014 INFO    exposure-7 Exposure #7 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:04:23,203 INFO    Thread-4 (process_request_thread) Exposure #8: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:04:35,640 WARNING exposure-8 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:04:35,646 INFO    exposure-8 Exposure #8 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:04:40,531 INFO    Thread-4 (process_request_thread) Exposure #9: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:04:53,076 WARNING exposure-9 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:04:53,081 INFO    exposure-9 Exposure #9 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:04:57,903 INFO    Thread-4 (process_request_thread) Exposure #10: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:05:10,288 WARNING exposure-10 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:05:10,293 INFO    exposure-10 Exposure #10 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:05:15,076 INFO    Thread-1 (process_request_thread) Exposure #11: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:05:27,512 WARNING exposure-11 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:05:27,517 INFO    exposure-11 Exposure #11 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:05:31,694 INFO    Thread-1 (process_request_thread) Exposure #12: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:05:44,068 WARNING exposure-12 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:05:44,073 INFO    exposure-12 Exposure #12 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:05:47,938 INFO    Thread-1 (process_request_thread) Exposure #13: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:06:00,390 WARNING exposure-13 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:06:00,395 INFO    exposure-13 Exposure #13 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:06:04,305 INFO    Thread-4 (process_request_thread) Exposure #14: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:06:16,772 WARNING exposure-14 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:06:16,777 INFO    exposure-14 Exposure #14 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:06:20,362 INFO    Thread-4 (process_request_thread) Exposure #15: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:06:32,685 WARNING exposure-15 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:06:32,689 INFO    exposure-15 Exposure #15 finished in 12.3 s: 4928x3264, min 0 / max 65532 / median 240, Bayer BGGR
+2026-10-10 21:06:36,577 INFO    Thread-1 (process_request_thread) Exposure #16: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:06:48,987 WARNING exposure-16 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:06:48,992 INFO    exposure-16 Exposure #16 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:06:53,571 INFO    Thread-1 (process_request_thread) Exposure #17: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:07:06,019 WARNING exposure-17 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:07:06,024 INFO    exposure-17 Exposure #17 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:07:10,067 INFO    Thread-4 (process_request_thread) Exposure #18: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:07:22,492 WARNING exposure-18 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:07:22,500 INFO    exposure-18 Exposure #18 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:07:26,206 INFO    Thread-1 (process_request_thread) Exposure #19: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:07:38,656 WARNING exposure-19 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:07:38,662 INFO    exposure-19 Exposure #19 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 240, Bayer BGGR
+2026-10-10 21:07:42,524 INFO    Thread-4 (process_request_thread) Exposure #20: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:07:54,940 WARNING exposure-20 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:07:54,945 INFO    exposure-20 Exposure #20 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:07:58,682 INFO    Thread-1 (process_request_thread) Exposure #21: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:08:11,074 WARNING exposure-21 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:08:11,080 INFO    exposure-21 Exposure #21 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 252, Bayer BGGR
+2026-10-10 21:08:14,794 INFO    Thread-1 (process_request_thread) Exposure #22: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:08:27,181 WARNING exposure-22 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:08:27,187 INFO    exposure-22 Exposure #22 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:08:31,124 INFO    Thread-1 (process_request_thread) Exposure #23: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:08:43,484 WARNING exposure-23 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:08:43,489 INFO    exposure-23 Exposure #23 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:08:47,445 INFO    Thread-1 (process_request_thread) Exposure #24: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:08:49,219 INFO    Thread-1 (process_request_thread) Exposure #24 aborted by the client (a shot already in the camera still finishes in the background and is discarded).
+2026-10-10 21:09:00,061 WARNING exposure-24 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:10:29,272 INFO    Thread-1 (process_request_thread) Exposure #25: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:10:41,664 WARNING exposure-25 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:10:41,669 INFO    exposure-25 Exposure #25 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:10:59,348 INFO    Thread-29 (process_request_thread) Exposure #26: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:11:11,807 WARNING exposure-26 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:11:11,813 INFO    exposure-26 Exposure #26 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 268, Bayer BGGR
+2026-10-10 21:11:31,538 INFO    Thread-29 (process_request_thread) Exposure #27: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:11:43,941 WARNING exposure-27 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:11:43,946 INFO    exposure-27 Exposure #27 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:11:47,835 INFO    Thread-29 (process_request_thread) Exposure #28: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:12:00,265 WARNING exposure-28 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:12:00,269 INFO    exposure-28 Exposure #28 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 304, Bayer BGGR
+2026-10-10 21:12:04,657 INFO    Thread-1 (process_request_thread) Exposure #29: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:12:17,161 WARNING exposure-29 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:12:17,166 INFO    exposure-29 Exposure #29 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:12:20,904 INFO    Thread-1 (process_request_thread) Exposure #30: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:12:33,341 WARNING exposure-30 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:12:33,347 INFO    exposure-30 Exposure #30 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:12:37,605 INFO    Thread-1 (process_request_thread) Exposure #31: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:12:50,101 WARNING exposure-31 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:12:50,106 INFO    exposure-31 Exposure #31 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 304, Bayer BGGR
+2026-10-10 21:12:54,117 INFO    Thread-1 (process_request_thread) Exposure #32: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:13:06,602 WARNING exposure-32 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:13:06,608 INFO    exposure-32 Exposure #32 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 304, Bayer BGGR
+2026-10-10 21:13:10,769 INFO    Thread-1 (process_request_thread) Exposure #33: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:13:23,313 WARNING exposure-33 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:13:23,318 INFO    exposure-33 Exposure #33 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:13:27,027 INFO    Thread-1 (process_request_thread) Exposure #34: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:13:39,448 WARNING exposure-34 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:13:39,453 INFO    exposure-34 Exposure #34 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 288, Bayer BGGR
+2026-10-10 21:13:43,713 INFO    Thread-1 (process_request_thread) Exposure #35: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:13:56,157 WARNING exposure-35 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:13:56,162 INFO    exposure-35 Exposure #35 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:14:00,475 INFO    Thread-29 (process_request_thread) Exposure #36: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:14:12,857 WARNING exposure-36 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:14:12,862 INFO    exposure-36 Exposure #36 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:14:16,907 INFO    Thread-1 (process_request_thread) Exposure #37: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:14:29,344 WARNING exposure-37 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:14:29,349 INFO    exposure-37 Exposure #37 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 276, Bayer BGGR
+2026-10-10 21:14:33,504 INFO    Thread-29 (process_request_thread) Exposure #38: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:14:45,909 WARNING exposure-38 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:14:45,915 INFO    exposure-38 Exposure #38 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:14:49,559 INFO    Thread-29 (process_request_thread) Exposure #39: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:15:01,914 WARNING exposure-39 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:15:01,919 INFO    exposure-39 Exposure #39 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:15:06,140 INFO    Thread-29 (process_request_thread) Exposure #40: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:15:18,482 WARNING exposure-40 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:15:18,487 INFO    exposure-40 Exposure #40 finished in 12.3 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:15:22,564 INFO    Thread-29 (process_request_thread) Exposure #41: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:15:35,082 WARNING exposure-41 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:15:35,087 INFO    exposure-41 Exposure #41 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:15:39,311 INFO    Thread-29 (process_request_thread) Exposure #42: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:15:51,863 WARNING exposure-42 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:15:51,867 INFO    exposure-42 Exposure #42 finished in 12.6 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:15:55,661 INFO    Thread-29 (process_request_thread) Exposure #43: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:16:08,150 WARNING exposure-43 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:16:08,155 INFO    exposure-43 Exposure #43 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:16:12,066 INFO    Thread-29 (process_request_thread) Exposure #44: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:16:24,488 WARNING exposure-44 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:16:24,493 INFO    exposure-44 Exposure #44 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 280, Bayer BGGR
+2026-10-10 21:16:28,790 INFO    Thread-29 (process_request_thread) Exposure #45: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:16:41,213 WARNING exposure-45 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:16:41,219 INFO    exposure-45 Exposure #45 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:16:44,808 INFO    Thread-1 (process_request_thread) Exposure #46: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:16:57,137 WARNING exposure-46 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:16:57,142 INFO    exposure-46 Exposure #46 finished in 12.3 s: 4928x3264, min 0 / max 65532 / median 252, Bayer BGGR
+2026-10-10 21:17:01,388 INFO    Thread-29 (process_request_thread) Exposure #47: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:17:13,817 WARNING exposure-47 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:17:13,822 INFO    exposure-47 Exposure #47 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:17:17,444 INFO    Thread-29 (process_request_thread) Exposure #48: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:17:29,877 WARNING exposure-48 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:17:29,882 INFO    exposure-48 Exposure #48 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:17:33,620 INFO    Thread-1 (process_request_thread) Exposure #49: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:17:46,052 WARNING exposure-49 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:17:46,056 INFO    exposure-49 Exposure #49 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:17:50,196 INFO    Thread-1 (process_request_thread) Exposure #50: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:18:02,676 WARNING exposure-50 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:18:02,682 INFO    exposure-50 Exposure #50 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:18:06,767 INFO    Thread-29 (process_request_thread) Exposure #51: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:18:19,145 WARNING exposure-51 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:18:19,150 INFO    exposure-51 Exposure #51 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:18:23,076 INFO    Thread-1 (process_request_thread) Exposure #52: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:18:35,598 WARNING exposure-52 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:18:35,604 INFO    exposure-52 Exposure #52 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 272, Bayer BGGR
+2026-10-10 21:18:40,594 INFO    Thread-1 (process_request_thread) Exposure #53: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:18:53,098 WARNING exposure-53 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:18:53,103 INFO    exposure-53 Exposure #53 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:18:57,289 INFO    Thread-29 (process_request_thread) Exposure #54: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:19:03,099 INFO    Thread-29 (process_request_thread) Exposure #54 aborted by the client (a shot already in the camera still finishes in the background and is discarded).
+2026-10-10 21:19:09,654 WARNING exposure-54 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:19:39,330 INFO    Thread-29 (process_request_thread) Exposure #55: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:19:51,786 WARNING exposure-55 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:19:51,791 INFO    exposure-55 Exposure #55 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:19:57,150 INFO    Thread-29 (process_request_thread) Exposure #56: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:20:09,555 WARNING exposure-56 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:20:09,562 INFO    exposure-56 Exposure #56 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 240, Bayer BGGR
+2026-10-10 21:20:25,673 INFO    Thread-29 (process_request_thread) Exposure #57: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:20:38,130 WARNING exposure-57 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:20:38,135 INFO    exposure-57 Exposure #57 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:20:57,401 INFO    Thread-29 (process_request_thread) Exposure #58: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:21:09,926 WARNING exposure-58 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:21:09,931 INFO    exposure-58 Exposure #58 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:21:14,473 INFO    Thread-29 (process_request_thread) Exposure #59: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:21:26,819 WARNING exposure-59 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:21:26,824 INFO    exposure-59 Exposure #59 finished in 12.3 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:21:30,792 INFO    Thread-1 (process_request_thread) Exposure #60: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:21:43,288 WARNING exposure-60 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:21:43,293 INFO    exposure-60 Exposure #60 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:21:47,060 INFO    Thread-1 (process_request_thread) Exposure #61: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:21:59,537 WARNING exposure-61 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:21:59,543 INFO    exposure-61 Exposure #61 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:22:03,139 INFO    Thread-1 (process_request_thread) Exposure #62: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:22:15,650 WARNING exposure-62 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:22:15,655 INFO    exposure-62 Exposure #62 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:22:19,855 INFO    Thread-1 (process_request_thread) Exposure #63: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:22:32,224 WARNING exposure-63 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:22:32,229 INFO    exposure-63 Exposure #63 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 264, Bayer BGGR
+2026-10-10 21:22:36,028 INFO    Thread-1 (process_request_thread) Exposure #64: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:22:48,475 WARNING exposure-64 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:22:48,480 INFO    exposure-64 Exposure #64 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:22:52,736 INFO    Thread-1 (process_request_thread) Exposure #65: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:23:05,066 WARNING exposure-65 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:23:05,071 INFO    exposure-65 Exposure #65 finished in 12.3 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:23:09,260 INFO    Thread-29 (process_request_thread) Exposure #66: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:23:21,743 WARNING exposure-66 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:23:21,749 INFO    exposure-66 Exposure #66 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:23:25,439 INFO    Thread-29 (process_request_thread) Exposure #67: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:23:37,892 WARNING exposure-67 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:23:37,896 INFO    exposure-67 Exposure #67 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 292, Bayer BGGR
+2026-10-10 21:23:41,950 INFO    Thread-29 (process_request_thread) Exposure #68: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:23:54,372 WARNING exposure-68 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:23:54,378 INFO    exposure-68 Exposure #68 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:23:58,233 INFO    Thread-29 (process_request_thread) Exposure #69: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:24:10,718 WARNING exposure-69 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:24:10,723 INFO    exposure-69 Exposure #69 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 284, Bayer BGGR
+2026-10-10 21:24:14,911 INFO    Thread-29 (process_request_thread) Exposure #70: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:24:27,357 WARNING exposure-70 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:24:27,362 INFO    exposure-70 Exposure #70 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 324, Bayer BGGR
+2026-10-10 21:24:31,169 INFO    Thread-29 (process_request_thread) Exposure #71: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:24:43,570 WARNING exposure-71 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:24:43,576 INFO    exposure-71 Exposure #71 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 308, Bayer BGGR
+2026-10-10 21:24:47,488 INFO    Thread-29 (process_request_thread) Exposure #72: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:24:59,870 WARNING exposure-72 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:24:59,876 INFO    exposure-72 Exposure #72 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 324, Bayer BGGR
+2026-10-10 21:25:03,557 INFO    Thread-29 (process_request_thread) Exposure #73: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:25:16,112 WARNING exposure-73 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:25:16,117 INFO    exposure-73 Exposure #73 finished in 12.6 s: 4928x3264, min 0 / max 65532 / median 368, Bayer BGGR
+2026-10-10 21:25:19,792 INFO    Thread-29 (process_request_thread) Exposure #74: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:25:32,427 WARNING exposure-74 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:25:32,433 INFO    exposure-74 Exposure #74 finished in 12.6 s: 4928x3264, min 0 / max 65532 / median 368, Bayer BGGR
+2026-10-10 21:25:36,148 INFO    Thread-29 (process_request_thread) Exposure #75: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:25:48,694 WARNING exposure-75 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:25:48,699 INFO    exposure-75 Exposure #75 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 400, Bayer BGGR
+2026-10-10 21:25:52,282 INFO    Thread-29 (process_request_thread) Exposure #76: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:26:04,805 WARNING exposure-76 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:26:04,810 INFO    exposure-76 Exposure #76 finished in 12.5 s: 4928x3264, min 0 / max 65532 / median 440, Bayer BGGR
+2026-10-10 21:26:08,804 INFO    Thread-29 (process_request_thread) Exposure #77: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:26:21,231 WARNING exposure-77 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:26:21,236 INFO    exposure-77 Exposure #77 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 324, Bayer BGGR
+2026-10-10 21:26:24,929 INFO    Thread-29 (process_request_thread) Exposure #78: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:26:37,341 WARNING exposure-78 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:26:37,346 INFO    exposure-78 Exposure #78 finished in 12.4 s: 4928x3264, min 0 / max 65532 / median 400, Bayer BGGR
+2026-10-10 21:26:40,994 INFO    Thread-29 (process_request_thread) Exposure #79: requested 2 s -> camera 2/1 s (2 s), gain 3200 -> ISO 3200
+2026-10-10 21:26:43,462 INFO    Thread-29 (process_request_thread) Exposure #79 aborted by the client (a shot already in the camera still finishes in the background and is discarded).
+2026-10-10 21:26:53,919 WARNING exposure-79 The decoded frame is 4950x3344 but the config says 4928x3264. Set sensor_width/sensor_height in the config to the real size and reconnect the camera in N.I.N.A.
+2026-10-10 21:27:03,000 INFO    Thread-29 (process_request_thread) Client disconnected.
+2026-10-10 21:27:08,221 INFO    MainThread Stopping.
